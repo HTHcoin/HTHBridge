@@ -46,7 +46,7 @@ module.exports = {
             max: 1000000,
             address: {
                 // chain id: token address in the chain
-                7118: '0x35827BeA833aD8aa441bf23e5Ca754f0aC6cB5c7',
+                7118: '0x592Be95eDa7CE2EA8a0142d4dA9F8Afc0ced2691',
                 2330: '0x0bc467A0A17f1c97b1CDF1ddb174c743212a7d7F'
             }
         }
