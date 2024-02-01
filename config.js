@@ -10,7 +10,7 @@ module.exports = {
             // Name of the chain
             name: 'HelpTheHomeless',
             // RPC URL of the chain
-            rpc: 'http://206.189.231.104:7118',
+            rpc: 'http://154.12.237.243:7118',
             // Enter deployed (bridge.sol) contract address
             contract: '0x3C7A88beDa98fa8361fc3fFc90292FD884d0E0a1',
             // Block explorer of chain
