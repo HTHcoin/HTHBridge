@@ -1,5 +1,5 @@
 module.exports = {
-    app: {   
+    app: {
      title: 'HTH-ALT Bridge',
         port: 5000
     },
@@ -12,9 +12,9 @@ module.exports = {
             // RPC URL of the chain
             rpc: 'http://154.12.237.243:7118',
             // Enter deployed (bridge.sol) contract address
-            contract: '0x3C7A88beDa98fa8361fc3fFc90292FD884d0E0a1',
+            contract: '0x0a7B9D1b4B34815231b29071697c07B3D1D56cDf',
             // Block explorer of chain
-            explorer: 'http://154.12.237.243:5000/tx/',
+            explorer: 'http://154.12.237.243:3000/tx/',
             // Gas price in WEI | 1 GWEI = 1000000000 WEI
             gasPrice: 2000000000,
             // Logo file name
@@ -24,8 +24,8 @@ module.exports = {
             id: 2330,
             name: 'Altcoinchain',
             rpc: 'https://rpc0.altcoinchain.org/rpc',
-            contract: '0xeB0aeDbe8762554fb041B59794f48BF1f606ce45',
-            explorer: 'http://node-sub.network:4100/tx/',
+            contract: '0x592Be95eDa7CE2EA8a0142d4dA9F8Afc0ced2691',
+            explorer: 'https://expedition.altcoinchain.org/tx/',
             gasPrice: 2000000000,
             logo: 'alt.png'
         }
@@ -37,7 +37,7 @@ module.exports = {
             // Name of the token
             name: 'HelpTheHomeless',
             // Symbol of the token
-            symbol: 'wHTH/aHTH',
+            symbol: 'wHTH',
             // Decimals of the token
             decimals: 18,
             // Minimum amount for swap
@@ -46,8 +46,8 @@ module.exports = {
             max: 1000000,
             address: {
                 // chain id: token address in the chain
-                7118: '0xf4b7bbB29102C710061de4bA91c777DA92b2115c',
-                2330: '0x4f5980B752D6728aAB4629FC8dDDcee2996b7f2b'
+                7118: '0x12b52c7A24161AEeEa6Ae63Cc5fcebaa75691A03',
+                2330: '0x3a5e79Af8CfE931C3551FD71C09B20b44D27209B'
             }
         }
     ],
